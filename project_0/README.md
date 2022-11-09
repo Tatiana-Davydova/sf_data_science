@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -40,7 +40,7 @@
 - Проверка кода на соответствия стандарту PEP8
 - Оформление документации
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
@@ -49,10 +49,10 @@
 - Код проверен на соответствие стандарту PEP8 (на сколько мне это удалось)
 - Оформлена документация
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 - Проект_0 "Угадай число" готов к использованию.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/project_0/README.md#Оглавление)
