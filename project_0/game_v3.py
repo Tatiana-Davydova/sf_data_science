@@ -23,8 +23,8 @@ def random_predict(number:int=1) -> int:
         
         elif predict_number > number:
             max_number = predict_number
-            my_list = range(1, max_number+1)
-            predict_number = int((1 + max_number)/2)
+            my_list = range(min_number, max_number+1)
+            predict_number = int((min_number + max_number)/2)
             
         elif predict_number < number:
             min_number = predict_number
