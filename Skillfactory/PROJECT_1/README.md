@@ -18,8 +18,8 @@
 Нужно провести базовый анализ структуры данных, преобразовать данные, произвести разведывательный анализ данных и очистить их.
 
 ### Краткая информация о данных
-1. База резюме с сайта поиска вакансий HeadHunter(https://drive.google.com/drive/folders/1vGrKgfYJEzmUe-ZYPv8SyIs0o_RfbzWi?usp=share_link)
-2. База данных о курсах валют(https://drive.google.com/drive/folders/1vGrKgfYJEzmUe-ZYPv8SyIs0o_RfbzWi?usp=share_link)
+1. [База резюме с сайта поиска вакансий HeadHunter](https://drive.google.com/drive/folders/1vGrKgfYJEzmUe-ZYPv8SyIs0o_RfbzWi?usp=share_link)
+2. [База данных о курсах валют](https://drive.google.com/drive/folders/1vGrKgfYJEzmUe-ZYPv8SyIs0o_RfbzWi?usp=share_link)
   
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Оглавление)
 
