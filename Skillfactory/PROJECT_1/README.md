@@ -46,7 +46,7 @@
 
 
 ### Выводы:  
-Файл по Проекту_1 "Анализ резюме из HeadHunter" готов к использованию (https://github.com/Tatiana-Davydova/sf_data_science/blob/main/Skillfactory/PROJECT_1/hh_review.ipynb). 
+Файл [hh_reviw.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/Skillfactory/PROJECT_1/hh_review.ipynb) по Проекту_1 "Анализ резюме из HeadHunter" готов к использованию. 
 Теперь на основе полученного результата можно проводить построение модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей соискателю, исходя из информации, которую он указал о себе.
 
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Оглавление)
