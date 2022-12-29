@@ -1,6 +1,4 @@
-<img src=https://petr-panda.ru/university/wp-content/uploads/2018/06/HeadHunter-e1504598950107.png width=500px height=30%>
-
-# PROJECT-1. Анализ резюме из HeadHunter 
+# PROJECT-1. Анализ резюме из HeadHunter      <img src=https://petr-panda.ru/university/wp-content/uploads/2018/06/HeadHunter-e1504598950107.png width=150px height=30%>
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Описание-проекта)  
