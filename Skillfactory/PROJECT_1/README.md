@@ -1,4 +1,6 @@
-# PROJECT-1. Анализ резюме из HeadHunter
+<img src=https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=HeadHunter%20(%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)&stype=image&lr=2&pos=0&img_url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F79%2FHeadHunter_logo.png&rlt_url=https%3A%2F%2Fsmartrabota.bvf.ru%2Flanding%2Fsmartrecruitment%2Fimg%2Fhh.jpg&ogl_url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F79%2FHeadHunter_logo.png width=500px height=30%>
+
+# PROJECT-1. Анализ резюме из HeadHunter 
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Описание-проекта)  
