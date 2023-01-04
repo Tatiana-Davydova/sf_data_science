@@ -3,17 +3,17 @@
 # PROJECT-1. Анализ резюме из HeadHunter      
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Результаты)    
-[6. Выводы](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Результаты)    
+[6. Выводы](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Выводы) 
 
 ### Описание проекта    
 На основании базы резюме с сайта поиска вакансий hh.ru необходимо преобразовать, исследовать и очистить данные, которые необходимы в дальнейшем. А именно, полученные данные нужны для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей соискателю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -23,7 +23,7 @@
 1. [База резюме с сайта поиска вакансий HeadHunter](https://drive.google.com/file/d/1SOdm0AU5Zq36P7ZKK_5a1CBENLn-Ng-c/view?usp=share_link)
 2. [База данных о курсах валют](https://drive.google.com/file/d/1zj62_LAa_NGBbskJoGI2ecv6yeK345l7/view?usp=share_link)
   
-:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Этапы работы над проектом:  
@@ -34,7 +34,7 @@
 - Проверка кода на соответствия стандарту PEP8
 - Оформление документации
 
-:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Результаты:  
@@ -44,11 +44,11 @@
 - Код проверен на соответствие стандарту PEP8
 - Оформлена документация
 
-:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Выводы:  
-Файл [hh_reviw.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/Skillfactory/PROJECT_1/hh_review.ipynb) по Проекту_1 "Анализ резюме из HeadHunter" готов к использованию. 
+Файл [hh_reviw.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/hh_review.ipynb) по Проекту_1 "Анализ резюме из HeadHunter" готов к использованию. 
 Теперь на основе полученного результата можно проводить построение модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей соискателю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_1%20Head%20Hunter/README.md#Оглавление)
