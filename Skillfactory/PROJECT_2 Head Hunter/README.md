@@ -1,5 +1,3 @@
-<img align="right" src=./images/head_hunter.png width=150px height=30%> 
-
 # PROJECT-2. Анализ вакансий из HeadHunter      
 
 ## Оглавление  
