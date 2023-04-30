@@ -44,7 +44,7 @@
 
 
 ### Выводы:  
-Файл [hh_reviw.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_2%20Head%20Hunter/hh_review.ipynb) по Проекту_2 "Анализ резюме из HeadHunter" готов к использованию. 
+Файл [Project_2_HH.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_2%20Head%20Hunter/Project_2_HH.ipynb) по Проекту_2 "Анализ резюме из HeadHunter" готов к использованию. 
 Теперь на основе полученного анализа данных можно либо создавать модель машинного обучения, либо подумать о том, как перед созданием модели машинного обучения заполнить информацию в недостающих данных в некоторых вакансиях.
 
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/PROJECT_2%20Head%20Hunter/README.md#Оглавление)
