@@ -26,6 +26,7 @@
 Дополнительно:
 
 Обратите внимание, что к данному соревнованию создано базовое решение!
+
 4. [BaseLine v1](https://www.kaggle.com/code/mamonmega/baseline-v1)
 
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/Skillfactory/PROJECT_3.%20EDA/README.md#Оглавление)
