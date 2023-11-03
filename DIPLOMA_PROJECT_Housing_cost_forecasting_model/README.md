@@ -33,12 +33,12 @@
 
 ### Результаты:  
 Проведено очищение данных и произведен разведывательный анализ исходных данных:
-[1. EDA_part_1.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/1.%20EDA_part_1.ipynb)
-[2. EDA_part_2.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/2.%20EDA_part_2.ipynb)
+1. [EDA_part_1.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/1.%20EDA_part_1.ipynb)
+2. [EDA_part_2.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/2.%20EDA_part_2.ipynb)
 Выделены наиболее значимые факторы, влияющие на стоимость недвижимости. Построена модель для прогнозирования стоимости объектов недвижимости:
-[3. ML.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/3.%20ML.ipynb)
+3. [ML.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/3.%20ML.ipynb)
 Проведен эксперемент на работоспособность модели машинного обучения на тестовом наборе данных:
-[4. Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/4.%20Experiment.ipynb)
+4. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/4.%20Experiment.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
