@@ -45,11 +45,15 @@
 
 4. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/4.%20Experiment.ipynb)
 
+Подготовлен файл для запуска командной строки в браузере и html-файл для запуска веб-сервиса:
+
+5. [app.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/model/app.ipynb)
+6. [index.html](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/model/index.html)
+
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:
 Несмотря на очень "грязные" данные, была проделана тщательная работа по очистке данных, выявлены и устранены выбросы в данных. Очищенные данные были нормализованы и на их основе построена модель машинного обучения, которая предсказывает стоимость объекта недвижимости. 
-Теперь на основе полученного результата можно продолжить проект и разработать веб-сервис, на вход которому поступают данные о некоторой выставленной на продажу недвижимости, а сервис прогнозирует его стоимость.
 
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
