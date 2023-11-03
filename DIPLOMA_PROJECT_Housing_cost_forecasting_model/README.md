@@ -2,10 +2,10 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Описание-проекта)  
-[2. Краткая информация о данных](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Краткая-информация-о-данных:)  
-[3. Этапы работы над проектом](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Этапы-работы-над-проектом:)  
-[4. Результат](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Результаты:)    
-[5. Выводы](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Выводы:) 
+[2. Краткая информация о данных](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Краткая-информация-о-данных)  
+[3. Этапы работы над проектом](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Этапы-работы-над-проектом)  
+[4. Результат](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Результаты)    
+[5. Выводы](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/Skillfactory/DIPLOM_Housing_cost_forecasting_model#Выводы) 
 
 ### Описание проекта    
 Необходимо разработать модель, которая позволила бы агентству недвижимости обойти конкурентов по скорости и качеству совершения сделок.
