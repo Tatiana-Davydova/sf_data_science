@@ -44,7 +44,7 @@
 
 Проведен эксперемент на работоспособность модели машинного обучения на тестовом наборе данных:
 
-5. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/Experiment.ipynb)
+5. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/model/Experiment.ipynb)
 
 Подготовлен файл для запуска командной строки в браузере и html-файл для запуска веб-сервиса:
 
