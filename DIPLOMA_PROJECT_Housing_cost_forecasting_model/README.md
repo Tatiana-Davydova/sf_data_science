@@ -35,8 +35,10 @@
 Проведено очищение данных и произведен разведывательный анализ исходных данных:
 1. [EDA_part_1.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/1.%20EDA_part_1.ipynb)
 2. [EDA_part_2.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/2.%20EDA_part_2.ipynb)
+
 Выделены наиболее значимые факторы, влияющие на стоимость недвижимости. Построена модель для прогнозирования стоимости объектов недвижимости:
 3. [ML.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/3.%20ML.ipynb)
+
 Проведен эксперемент на работоспособность модели машинного обучения на тестовом наборе данных:
 4. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/4.%20Experiment.ipynb)
 
