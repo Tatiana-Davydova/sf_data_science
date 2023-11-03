@@ -40,15 +40,16 @@
 Построена модель для прогнозирования стоимости объектов недвижимости:
 
 3. [ML.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/3.%20ML.ipynb)
+4. [working_model.pkl](https://drive.google.com/file/d/1c0OTzY-64cvr8_d0V4hWtr5IbN2gnKK4/view?usp=drive_link)
 
 Проведен эксперемент на работоспособность модели машинного обучения на тестовом наборе данных:
 
-4. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/4.%20Experiment.ipynb)
+5. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/4.%20Experiment.ipynb)
 
 Подготовлен файл для запуска командной строки в браузере и html-файл для запуска веб-сервиса:
 
-5. [app.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/model/app.ipynb)
-6. [index.html](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/model/index.html)
+6. [app.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/model/app.ipynb)
+7. [index.html](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/model/index.html)
 
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
