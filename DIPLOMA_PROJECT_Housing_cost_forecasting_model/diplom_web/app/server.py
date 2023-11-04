@@ -5,7 +5,7 @@ import pandas as pd
 import json
 
 # загружаем модель из файла
-with open('models/working_model.pkl', 'rb') as pkl_file:
+with open('https://drive.google.com/file/d/1c0OTzY-64cvr8_d0V4hWtr5IbN2gnKK4/view?usp=drive_link', 'rb') as pkl_file:
     model = pickle.load(pkl_file)
 
 # создаём приложение
