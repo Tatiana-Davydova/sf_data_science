@@ -46,10 +46,9 @@
 
 5. [Experiment.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/model/Experiment.ipynb)
 
-Подготовлен файл для запуска командной строки в браузере и html-файл для запуска веб-сервиса:
+Подготовлен файл для запуска командной строки в браузере для запуска веб-сервиса:
 
-6. [app.ipynb](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/model/app.ipynb)
-7. [index.html](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/model/index.html)
+6. [server.py](https://github.com/Tatiana-Davydova/sf_data_science/blob/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model/diplom_web/app/server.py)
 
 :arrow_up:[к оглавлению](https://github.com/Tatiana-Davydova/sf_data_science/tree/main/DIPLOMA_PROJECT_Housing_cost_forecasting_model#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
